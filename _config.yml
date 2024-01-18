@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://rnm-patel.github.io"
+url: "https://rajatmovaliya.coms"
 
 github:
   username: rnm-patel # change to your github username
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rajat Movaliya
-  # email: rajatmovaliya@gmail.com # change to your email address
+  email: rajatmovaliya000@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/rajatmovaliya # change to your twitter homepage
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-6FKJVWVCKM
 
 # Prefer color scheme setting.
 #
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/28841217?s=400&u=fa1d2ff9d68b55849570f00efa5bfe8b9f1fd5e0&v=4
+avatar: https://avatars.githubusercontent.com/u/28841217?s=400&u=fa1d2ff9d68b55849570f00efa5bfe8b9f1fd5e0&v=4 
 # avatar: assets/profile/ProfilePicture.jpg
 
 # boolean type, the global switch for TOC in posts.
