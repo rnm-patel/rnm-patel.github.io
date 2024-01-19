@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Setup!
-date: 2024-01-10 12:00:00 0530
+date: 2024-01-20 12:00:00 0530
 categories: [snippets, setup]
 tags: [ubuntu,setup]
 ---
